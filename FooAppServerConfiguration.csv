@@ -1,3 +1,0 @@
-"ComputerName", "FilePath", "Content"
-"WEBSRV1", "C:\SomeConfigFile.txt", "AppName=Foo, DBName=SQLSRV1"
-"SQLSRV1", "C:\SomeConfigFile.txt", "AppName=Foo, WebServiceName=WEBSRV1"
